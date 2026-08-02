@@ -4,6 +4,7 @@ Daymark turns a seven-day weather forecast into explainable rankings for skiing,
 
 The project was created for the Lead/Senior Engineer take-home exercise. It prioritises transparent domain rules, replaceable external integrations, and a polished but focused user experience.
 
+![Daymark weather recommendation walkthrough](docs/Screenshot%202026-08-02%20at%2019.47.28.png)
 
 
 ## Run locally
